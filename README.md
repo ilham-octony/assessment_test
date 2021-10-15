@@ -2,7 +2,7 @@
 
 usage: engine.py [-h] [-t TYPE] -o OUTPUT N
 
-run = python engine.py {path_log} -t (optional, json/text, default=text) -o
+run = python3 engine.py {path_log} -t (optional, json/text, default=text) -o
 {path_output}
 
 positional arguments:
